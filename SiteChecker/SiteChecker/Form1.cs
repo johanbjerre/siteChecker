@@ -46,8 +46,17 @@ namespace SiteChecker
         {
             AddLog("repeattask");
             var scraper = new Bjerre.Scraper.Scraper();
-            var content=scraper.PerformRequest(textBoxUrl.Text);
-            AddLog("found content of size:"+content.Length);
+            try
+            {
+                var content = scraper.PerformRequest(textBoxUrl.Text);
+                AddLog("found content of size:" + content.Length);
+            }
+            catch (Exception)
+            {
+                AddLog("Unable to scrape site");
+            }
+            
+            
         }
 
         private delegate void AddLogDelegate(string text);
@@ -79,6 +88,11 @@ namespace SiteChecker
         private void buttonStop_Click(object sender, EventArgs e)
         {
             shallRepeat = false;
+        }
+
+        private void textBoxUrl_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

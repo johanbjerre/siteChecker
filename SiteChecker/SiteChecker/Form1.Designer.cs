@@ -62,6 +62,7 @@
             this.textBoxUrl.Size = new System.Drawing.Size(334, 20);
             this.textBoxUrl.TabIndex = 2;
             this.textBoxUrl.Text = "http://www.dn.se";
+            this.textBoxUrl.TextChanged += new System.EventHandler(this.textBoxUrl_TextChanged);
             // 
             // label1
             // 
@@ -95,11 +96,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(147, 41);
+            this.label2.Location = new System.Drawing.Point(111, 41);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(32, 13);
+            this.label2.Size = new System.Drawing.Size(54, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "sleep";
+            this.label2.Text = "sleep (ms)";
             this.label2.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
