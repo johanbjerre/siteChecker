@@ -1,0 +1,11 @@
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\bin\Debug\SiteChecker.exe.config
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\bin\Debug\SiteChecker.exe
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\bin\Debug\SiteChecker.pdb
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\obj\Debug\SiteChecker.csprojResolveAssemblyReference.cache
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\obj\Debug\SiteChecker.Form1.resources
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\obj\Debug\SiteChecker.Properties.Resources.resources
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\obj\Debug\SiteChecker.csproj.GenerateResource.Cache
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\obj\Debug\SiteChecker.exe
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\obj\Debug\SiteChecker.pdb
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\bin\Debug\Bjerre.Scraper.dll
+C:\drive\jubjerre\dotNet\Bjerre\siteChecker\SiteChecker\SiteChecker\bin\Debug\Bjerre.Scraper.pdb
